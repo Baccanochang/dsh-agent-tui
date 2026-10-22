@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Agent TUI",
+    "description": "Starts a real terminal for this session and runs Claude Code, CodeBuddy, OpenCode, or a custom command in the session working directory."
+  }
+}

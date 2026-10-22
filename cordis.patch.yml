@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-agent-tui
+      name: '@local/dsh-agent-tui'

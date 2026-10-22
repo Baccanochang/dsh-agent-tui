@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Agent TUI",
+    "description": "在当前会话的工作目录中启动真实终端，运行 Claude Code、CodeBuddy、OpenCode 或任意自定义命令。"
+  }
+}
